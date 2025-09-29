@@ -33,11 +33,18 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=abd000u&show_icons=true&theme=tokyonight" width="48%"/>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=abd000u&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%"/>
+
+<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd000u&layout=compact&theme=tokyonight" width="48%"/>
 
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abd000u&theme=tokyonight&hide_border=false" width="80%"/>
+
 </div>
+
 
 ---
 
